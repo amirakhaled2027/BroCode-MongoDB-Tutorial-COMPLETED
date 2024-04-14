@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6619934428494db0bec7f698"
+  },
+  "name": "Jack",
+  "age": 30,
+  "gpa": 4
+},
+{
+  "_id": {
+    "$oid": "6619934428494db0bec7f699"
+  },
+  "name": "Mark",
+  "age": 25,
+  "gpa": 3.2
+},
+{
+  "_id": {
+    "$oid": "6619934428494db0bec7f69a"
+  },
+  "name": "Elizabeth",
+  "age": 24,
+  "gpa": 4.1
+},
+{
+  "_id": {
+    "$oid": "6619d5198593f556955106e8"
+  },
+  "name": "Larry",
+  "age": 32,
+  "fullTime": false,
+  "registerDate": "2024-04-13T12:34:56Z",
+  "graduationDate": null,
+  "courses": [
+    "English",
+    "Philosophy",
+    "Biology"
+  ],
+  "address": {
+    "street": "123 Fake St.",
+    "city": "La la land",
+    "zip": 12345
+  }
+}]
